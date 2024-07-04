@@ -5,6 +5,8 @@
 
 nome = "Joane"
 idade = 36
+profissao = "Desenvolvedora Web"
+
 
 
 # Posso também definir, o subscrever na mesma linha
